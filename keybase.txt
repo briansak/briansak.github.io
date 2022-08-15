@@ -6,58 +6,58 @@ I hereby claim:
 
   * I am an admin of http://briansak.org
   * I am briansak (https://keybase.io/briansak) on keybase.
-  * I have a public key with fingerprint 436A C7A7 2862 AE56 A266  640D FED1 095D F9ED 908B
+  * I have a public key with fingerprint DA4E 0C32 C556 67FD DD04  C0D6 91CA 8D30 B187 5410
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "01011e59e72c97a232a5b1a5e89ec9b10e89b513166cb906a1efd5e4579f6f38bde00a",
-            "fingerprint": "436ac7a72862ae56a266640dfed1095df9ed908b",
-            "host": "keybase.io",
-            "key_id": "fed1095df9ed908b",
-            "kid": "01011e59e72c97a232a5b1a5e89ec9b10e89b513166cb906a1efd5e4579f6f38bde00a",
-            "uid": "c802e5f0231f7b4fd0daa5c6ad491d19",
-            "username": "briansak"
-        },
-        "service": {
-            "hostname": "briansak.org",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "010112d54c00dc35f66008def16aea16bbd641f3b7604e758f5fef17d56e872803cb0a",
+      "fingerprint": "da4e0c32c55667fddd04c0d691ca8d30b1875410",
+      "host": "keybase.io",
+      "key_id": "91ca8d30b1875410",
+      "kid": "010112d54c00dc35f66008def16aea16bbd641f3b7604e758f5fef17d56e872803cb0a",
+      "uid": "c802e5f0231f7b4fd0daa5c6ad491d19",
+      "username": "briansak"
     },
-    "ctime": 1475162400,
-    "expire_in": 157680000,
-    "prev": "e08adc2e0906aa97b5ccdaf872c1fb5e2469002b3408e978fb8d167afa7dcd26",
-    "seqno": 7,
-    "tag": "signature"
+    "service": {
+      "hostname": "briansak.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1660587293,
+  "expire_in": 157680000,
+  "prev": "de300b1cafb9c53d39ae47e5ab8abb1e2db12f3350315589e06327026031e333",
+  "seqno": 11,
+  "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.58
+Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-yMIhAnicrZJbSBVBGMePqWknrKiHSiNkwexy0Jk9u7M7B0qIiAp6yUgq6zSzM3vc
-1N1tzx41vJTdfIjIF8Miu1FI0UM3IYOiTB/MBIOgsiIq6hRdoB4qMqhZqZfosaeZ
-+eb3//P/Pr7+vMxQOOP7/voTu7N5R8bQrUOpUMUHWNgoUYdtl2KNUjUfP3gN40k/
-Xm0xKSYBCCDkKuaabGCNyFGZqBQSleuYG5hCIC5UhVGIkEExQARyk6lcUTVsIjOq
-U8YBIFJEMi07wT3Xs2xf2CpRRAyNaLKOZMJVRGSEkAKYyRkEWGUm5gwDnQphlZMM
-FCIcJUleYjmiJh7x8Xj/4P9z7tS4naEDmasmkKPQ1KhiMsAIUQ1EmIIhgzgAk9yz
-SS0XNPUsYidJtdQckUS1zjJ4MNigk7+IEsdLCK3rOb5jODXip8r33Vgg9Le7AVnP
-afy3R5xaNhNjFII67iUtx5ZiUJCGbwWmUNFUiGQFgIjEG1zL43ErIFQN6QAEVdfj
-dcKSA50wQ+Yg6JtgjaqGwYipi1FBk6pcVhAGQKZRBegca7pJdQaRRkyiMYPJSAq6
-2mY7UkwTMUlCWCathE38lMel5r6blVmhjHBoYvaEYL1C4UnT/izd6dacsRxryefi
-xz/P7Bs8cnRW97rL3Z0NyzvODRfhg4X6UNc7ZOQuPBDOnVr1pTg5uOHb2JWCPQ/H
-ZgzNay14HZ58vCxrc0fiWEHTwPPh1t4p6btbjp8v7t8y5Pdmb3o7506ffa/p8Jnv
-6RNtoy/yUjt3lpXfXl37tXR66EZl9Wh5x6O3IPf9hc6WLKXw2MarLfdHeq5d7Kmv
-uuSHljQvKslEI5GK9MdE5qV0UeVWd67b07b31Oc1feuvN95PrVq/Rj7peq+6QjvW
-rnhzozDR/qzLLH2QXhzJL3vybYFfkJdZ5JSbs1/OL8ED65bh0aYfXS0VkV1nZ6r1
-dGVb0VPlQX5768eln9jYL4PlQEU=
-=XE5E
+yMIhAnicrVJbSBVBGD52My0lsYSKCrd7mM7s7MzuOT0FUT1I14eitNPMzqxt2u5x
+zx5LzIgC7cHoikpmZVkQ2sWeLHww80Ey6EZgBYU9ZRZdzIhKalbqJXpsXob//7/v
++7//5+9OGxtKTWqctG/DjPoTj5J6b9clQuzb4VkVCnN5uRKpUIrF6CdKuIj70WKb
+KxEFQAChyrFmAsBNhC1CADC4sCChgkLCGCcatBDTCdCEjg0LW7Koc0yEoasGQCYD
+VMlRLNspEl7Msx1fynKqCWAi1cSYEN3inAPZgZMwNKnBEWDQ0LEGgSTucOMBQ5pj
+NC5ybVfmZBAdtfcP/H/2nRiVMw2gCmwBFUFLZ5rFAacUm4RyLQw5DAfAuPAcuktI
+NPNs6sRpsVKZo8hsmW2KYLHBJH8hcl2vSHJjnuu7plsiKzt8PxYJiH55LEDuFiz6
+WyPKbIfLNUpCmfDitusoESiRpm8HolCOiKX3MMpRxJ6Y7YmoHSCwTgwgX9BGlAXL
+FwjIjZnUYmETI47CVGi6wJQZlDEoVM6gaiGEAYIYG2EBCFJ1oBIZC4SQEkxV6rhS
+G0qftEhqxu0ih/oJTyiVXZ0F40JJqaEJ48cE9xVKTZny5+o6tyePzFhx4CE5NG3N
+FzD5Vcvi+yPGcfoxv7bw3uqeO1nJ1ctWtbJH+QMfZma1d9ovFg1dvtanx/qeXO+u
+Huq45Ocdnvu9fqaTnth0M2/k1qCy5uqSrwt23+hPzXw+mH39/Lrmi42tp+6eG3Sy
+K0l/yuBEXp5e92Tz/pUtGY0kVnMEF8zqy+ppz3v6Tlv2s+30h7T1sdrs9oYzvVsm
+vx24cHPVheM1pKP27ER4cH4D2dtwv3D2609L4YPpFW+u7T85D289m89/TK16P9zW
+9Tn9ZSL5ijE+4+GRzRtLiysKhpqnPW4fO+7p6WOZvU0rls/JHH7XFM0dqVq4c176
+ooyanyfuRZ6tPVrQnLbtF7F+QWY=
+=nZb1
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -66,4 +66,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/briansak
 
 ==================================================================
-
